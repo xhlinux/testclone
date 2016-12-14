@@ -5,9 +5,10 @@ int
 main(int argc, char *argv[])
 {
     int i=5;
+    int code[10];
     printf("helloworld\n"); 
     
-    if(i=5)
+    if(code[11]==5)
     {
         printf("test error\n"); 
     }
