@@ -4,7 +4,13 @@
 int
 main(int argc, char *argv[])
 {
+    int i=5;
     printf("helloworld\n"); 
+    
+    if(i=5)
+    {
+        printf("test error\n"); 
+    }
 
     exit(EXIT_SUCCESS);
 }
