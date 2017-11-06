@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
     int code[10];
     printf("helloworld\n"); 
     
-    if(i=5)
+    if(i=6)
     {
         printf("test error\n"); 
     }
